@@ -22,5 +22,6 @@ Using this application is very simple: just click the `Browse` button to select 
 
 ---
 
-### Live Demo
-Check out the live website here: [EraseIt Live](https://617ba27410a9219c0a221181--bg-remove.netlify.app/)
+### Footer
+Developed with ❤️ by **Avinash Gupta**  
+For more projects, visit my [GitHub profile](https://github.com/tier3guy)
