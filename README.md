@@ -1,16 +1,26 @@
-# BG Remover
+# EraseIt – Background Remover
 
-### A React based web application that removes the background from your image. Using this is application is very simple. The only thing you need to do is just click the `Browse` button and select your image or to just drag and drop the image onto the uploading area, it will automatically detect the image and upload that image onto the server. It will take 10-15 seconds to process the image and send you the response image. After the image got rendered you can that download that image too.
----
-#### The application is build during a contest organised by [CODE FOR CAUSE](https://codeforcause.org/)
-#### Special thanks to [CODE FOR CAUSE](https://codeforcause.org/) for organizing this contest. 
-![CFC IMAGE](https://codeforcause.org/static/logo/logo.svg)
----
-### Learning while building this project
-- Axios package
-- API Calling
-- Blobs and ArrayBuffer
-- .env (securing private keys)
-- Creating drag and drop feature 
+### A React-based web application that removes the background from your images.  
 
-### The website is live at [LINK](https://617ba27410a9219c0a221181--bg-remove.netlify.app/)
+Using this application is very simple: just click the `Browse` button to select your image or drag and drop the image onto the upload area. The app automatically detects and uploads your image to the server. Processing typically takes 10–15 seconds, after which you can download your image with the background removed.
+
+---
+
+#### Built during a contest organized by [Code for Cause](https://www.youtube.com/@CodeforCause)
+#### Special thanks to [Code for Cause](https://www.youtube.com/@CodeforCause) for organizing this contest.  
+
+![CFC IMAGE](https://yt3.googleusercontent.com/ytc/AIdro_neQD78iYjxZNpmupUlPd13xUJdhTiYRueV6rw9IzSedQ=s160-c-k-c0x00ffffff-no-rj)
+
+---
+
+### Key Learnings and Features
+- Using the **Axios** package for API requests  
+- Handling **API calls** efficiently  
+- Working with **Blobs** and **ArrayBuffers**  
+- Using **.env** files to secure private keys  
+- Implementing a **drag and drop** feature for images  
+
+---
+
+### Live Demo
+Check out the live website here: [EraseIt Live](https://617ba27410a9219c0a221181--bg-remove.netlify.app/)
